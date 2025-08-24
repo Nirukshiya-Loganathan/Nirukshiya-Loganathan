@@ -6,9 +6,7 @@
 <p align="left"> 
 
 <!-- QA & Framework Tools -->
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-</a>
+
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
 </a>
@@ -52,6 +50,9 @@
 </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </a>
 </p>
 

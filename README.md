@@ -45,6 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirukshiya-loganathan&show_icons=true&locale=en&layout=compact" alt="nirukshiya-loganathan" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nirukshiya-loganathan&show_icons=true&locale=en" alt="nirukshiya-loganathan" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nirukshiya-loganathan&" alt="nirukshiya-loganathan" /></p>
